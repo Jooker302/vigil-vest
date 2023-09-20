@@ -2,7 +2,7 @@
 body {
   font-family: 'Lato', sans-serif;
   color: #040000;
-  background-color: #d1e3ff;
+  background-color: #0F0D0F;
 }
 
 .layout_padding {
@@ -80,7 +80,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  background-color: #d1e3ff;
+  background-color: #0F0D0F;
 }
 
 .header_section .container-fluid {
@@ -90,7 +90,7 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
 }
 
 .header_section .header_top .contact_nav {
@@ -107,7 +107,7 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a i {
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .header_section .header_bottom {
@@ -124,7 +124,7 @@ a:focus {
 }
 
 .navbar-brand span {
-  color: #2D4BDD;
+  color: #01C8FC;
   text-transform: uppercase;
 }
 
@@ -138,12 +138,12 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 10px 25px;
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .custom_nav-container .form-inline .nav_search-btn {
@@ -155,7 +155,7 @@ a:focus {
 }
 
 .custom_nav-container .form-inline .nav_search-btn:hover {
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .equal-height {
@@ -276,7 +276,7 @@ a:focus {
 }
 
 .quote_btn-container a:hover {
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 /*end header section*/
@@ -313,7 +313,7 @@ a:focus {
 .slider_section .detail-box h1 {
   font-weight: bold;
   margin-bottom: 25px;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .slider_section .detail-box p {
@@ -326,8 +326,8 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #2D4BDD;
-  border: 1px solid #2D4BDD;
+  background-color: #01C8FC;
+  border: 1px solid #01C8FC;
   border-radius: 5px;
   color: #ffffff;
   margin-top: 15px;
@@ -335,7 +335,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .slider_section .img-box img {
@@ -371,7 +371,7 @@ a:focus {
   margin: 0 10px;
   padding: 45px 15px;
   background-color: #ffffff;
-  color: #555089;
+  color: #01C8FC;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   -webkit-box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
@@ -404,7 +404,7 @@ a:focus {
 }
 
 .feature_section .feature_container .box:hover, .feature_section .feature_container .box.active {
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
   color: #ffffff;
 }
 
@@ -437,15 +437,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #2D4BDD;
-  border: 1px solid #2D4BDD;
+  background-color: #01C8FC;
+  border: 1px solid #01C8FC;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .about_section .img-box img {
@@ -453,7 +453,7 @@ a:focus {
 }
 
 .professional_section {
-  background-color: #d1e3ff;
+  background-color: #0F0D0F;
 }
 
 .professional_section .row {
@@ -469,7 +469,7 @@ a:focus {
 .professional_section .detail-box h2 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .professional_section .detail-box p {
@@ -482,15 +482,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #2D4BDD;
-  border: 1px solid #2D4BDD;
+  background-color: #01C8FC;
+  border: 1px solid #01C8FC;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .professional_section .detail-box a:hover {
   background-color: transparent;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .service_section {
@@ -551,7 +551,7 @@ a:focus {
 }
 
 .service_section .box:hover {
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
   color: #ffffff;
 }
 
@@ -575,15 +575,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #2D4BDD;
-  border: 1px solid #2D4BDD;
+  background-color: #01C8FC;
+  border: 1px solid #01C8FC;
   border-radius: 0;
   color: #ffffff;
 }
 
 .service_section .btn-box a:hover {
   background-color: transparent;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .client_section .heading_container {
@@ -658,7 +658,7 @@ a:focus {
 .client_section .owl-carousel .owl-nav button {
   width: 50px;
   height: 50px;
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
   outline: none;
   margin: 0 20px;
   color: #ffffff;
@@ -708,8 +708,8 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 55px;
-  background-color: #2D4BDD;
-  border: 1px solid #2D4BDD;
+  background-color: #01C8FC;
+  border: 1px solid #01C8FC;
   border-radius: 0;
   color: #ffffff;
   margin-top: 15px;
@@ -717,7 +717,7 @@ a:focus {
 
 .contact_section button:hover {
   background-color: transparent;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .contact_section .map_container {
@@ -730,7 +730,7 @@ a:focus {
 
 .info_section {
   padding: 75px 0;
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
   text-align: center;
   color: #fff;
 }
@@ -762,7 +762,7 @@ a:focus {
 
 .info_section a {
   margin: 0 5px;
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .info_section a i {
@@ -770,7 +770,7 @@ a:focus {
 }
 
 .info_section a:hover {
-  color: #2D4BDD;
+  color: #01C8FC;
 }
 
 .info_items a {
@@ -800,7 +800,7 @@ a:focus {
   background-position: center;
   text-align: center;
   line-height: 80px;
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
   color: #ffffff;
 }
 
@@ -816,7 +816,7 @@ a:focus {
 }
 
 .info_items .item:hover .img-box {
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
 }
 
 .info_items {
@@ -837,7 +837,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #2D4BDD;
+  background-color: #01C8FC;
 }
 
 .footer_section p {
